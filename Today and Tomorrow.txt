@@ -1,0 +1,12 @@
+<html>
+<head><title>Today and Tomorrow</title>
+<style>
+body {
+  background-image: url(https://i.pinimg.com/originals/48/b5/9e/48b59ef42e4be293d4391cb230bb4c88.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
+</style>
+</head>
+<p align=center><marquee direction=down behavior=alternate><b><font size=10 color=white>Welcome to my Homepage</p></marquee></b></font>
